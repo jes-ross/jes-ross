@@ -1,4 +1,7 @@
 ### Hi there 👋
+### About me
+<hr>
+<p></p>
 
 <!--
 **jes-ross/jes-ross** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
