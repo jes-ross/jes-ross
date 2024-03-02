@@ -16,7 +16,7 @@ and it´s nice to meet you 🤗
 <li>Big Data 📊, Game Development 🕹 are my strong points and passions 💪🏽❤️</li>
 <li>Current Reader 📚</li></p>
 <h2>Contact me</h2>
-<p>Working in this</p>
+
 <h3>Technologies i can use</h3>
 <hr>
 <div id='images'>
