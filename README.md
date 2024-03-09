@@ -1,8 +1,8 @@
 
 <h2> Hello developers <img src='https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/1f44b.gif' width=30px></h2>
-<p>I´m a programming entusiast and i´m searching for 
+<p>I´m a programming entusiast and I´m searching for 
 anything that can teach me something new about this programming world🌍
-and it´s nice to meet you 🤗
+and It´s nice to meet you 🤗
 </p>
 <hr>
 <p>Everything in this repository can be forked or cloned, don´t be aware of doing it.</p>
