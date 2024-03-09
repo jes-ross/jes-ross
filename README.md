@@ -1,7 +1,7 @@
 
 <h2> Hello developers <img src='https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/1f44b.gif' width=30px></h2>
 <p>I´m a programming entusiast and i´m searching for 
-anithing that can teach me something new about this programming world🌍
+anything that can teach me something new about this programming world🌍
 and it´s nice to meet you 🤗
 </p>
 <hr>
