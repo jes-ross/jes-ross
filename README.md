@@ -1,11 +1,11 @@
 
 <h2> Hello developers <img src='https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/1f44b.gif' width=30px></h2>
-<p>I´m a programming entusiast and I´m searching for 
+<p>I´m a programming entusiast searching for 
 anything that can teach me something new about this programming world🌍
 and It´s nice to meet you 🤗
 </p>
 <hr>
-<p>Everything in this repository can be forked or cloned, don´t be aware of doing it.</p>
+<p>Everything in this repository can be forked or cloned.</p>
 <p aling-items=center><h1>Happy coding!!!!❤️‍🔥</h1></p>
 
 
@@ -14,7 +14,7 @@ and It´s nice to meet you 🤗
 
 <p><li>I´m a Python Programing fan 🐍</li>
 <li>Big Data 📊, Game Development 🕹 are my strong points and passions 💪🏽❤️</li>
-<li>Current Reader 📚</li></p>
+<li>Bookworm 📚</li></p>
 
 
 
