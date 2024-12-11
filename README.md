@@ -41,9 +41,9 @@ and It´s nice to meet you 🤗
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jes-ross&show_icons=true&locale=en&layout=compact" alt="jes-ross" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jes-ross&show_icons=true&locale=en" alt="jes-ross" />Hola</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jes-ross&show_icons=true&locale=en" alt="jes-ross" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jes-ross&" alt="jes-ross" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jes-ross&" alt="jes-ross" />Hola</p>
 
 
 
