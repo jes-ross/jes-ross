@@ -12,8 +12,7 @@ and It´s nice to meet you 🤗
 
 <h2>About me</h2>
 
-<p><li>I´m a Python Programing fan 🐍</li>
-<li>Big Data 📊, Game Development 🕹 are my strong points and passions 💪🏽❤️</li>
+<p><li>I´m a Python and JavaScript Programing fan</li>
 <li>Bookworm 📚</li></p>
 
 
